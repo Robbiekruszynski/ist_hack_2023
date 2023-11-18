@@ -1,4 +1,4 @@
-# <img width=24 height=24 src="https://github.com/Robbiekruszynski/ist_hack_2023/assets/149794418/16a954f8-3272-418f-b5df-a9fd04181226"> SaferBridge - Trust Minimized L2 Bridge
+# SaferBridge <img width=24 height=24 src="https://github.com/Robbiekruszynski/ist_hack_2023/assets/149794418/16a954f8-3272-418f-b5df-a9fd04181226"> - Trust Minimized L2 Bridge
 # Via - Trust Minimized L2 Bridge
 # ViaDuck - Trust Minimized L2 Bridge
 # ViaDuct - Trust Minimized L2 Bridge
