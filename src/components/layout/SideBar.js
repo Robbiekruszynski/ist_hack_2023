@@ -1,4 +1,3 @@
-// src/components/layout/Sidebar.js
 import React from 'react';
 import { Drawer, Card, CardContent, Typography, LinearProgress } from '@mui/material';
 
@@ -10,7 +9,7 @@ const Sidebar = () => {
   ];
 
   return (
-    <Drawer variant="permanent" anchor="left">
+    <Drawer variant="permanent" anchor="right">
       {tasks.map((task, index) => (
         <Card key={index} style={{ margin: 8 }}>
           <CardContent>
